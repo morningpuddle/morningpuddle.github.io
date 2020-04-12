@@ -1,7 +1,16 @@
 ---
 layout: page
-title: TODOs
-permalink: /about/
+title: About
+permalink: /about
 ---
 
-- [ ] [30 Day LeetCode Challenge](/challenge/leetcode)
+### Coding 🎮
+- [ ] 30 Day LeetCode Challenge 
+- [ ] AWS Certified Cloud Architect - Associate
+- [ ] Twilio + Dev.to Challenge
+
+### Reading 📓
+- [ ] Clean Architecture
+
+### Musics 🙉
+- [ ] [Seattle Symphony (live)](https://www.youtube.com/channel/UCcrKaQFy2TImAad1hyxu_8w)
