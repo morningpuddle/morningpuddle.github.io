@@ -5,12 +5,12 @@ permalink: /about
 ---
 
 ### Coding 🎮
-- [ ] 30 Day LeetCode Challenge 
+- [x] 30 Day LeetCode Challenge (April)
+- [ ] 30 Day LeetCode Challenge (May)
+- [x] AWS Certified Cloud Practitioner
 - [ ] AWS Certified Cloud Architect - Associate
-- [ ] Twilio + Dev.to Challenge
 
 ### Reading 📓
 - [ ] Clean Architecture
 
 ### Musics 🙉
-- [ ] [Seattle Symphony (live)](https://www.youtube.com/channel/UCcrKaQFy2TImAad1hyxu_8w)
